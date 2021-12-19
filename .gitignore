@@ -4,4 +4,4 @@
 /bin/
 /.shards/
 *.dwarf
-.env
+#.env

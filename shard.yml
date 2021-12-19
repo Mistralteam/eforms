@@ -6,7 +6,7 @@ authors:
 
 dependencies:
   dotenv:
-    github: xtokio/dotenv
+    github: mistralteam/dotenv
   kemal:
     github: kemalcr/kemal
     branch: master
